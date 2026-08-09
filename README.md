@@ -31,7 +31,7 @@ Pandas • NumPy • Matplotlib • Scikit-learn • Generative AI
 HTML • CSS • JavaScript • React • Node.js
 
 ### Tools
-Git • GitHub • VS Code • Jupyter Notebook
+Git • GitHub • VS Code • Jupyter Notebook • Power BI • Ms Excel
 
 ---
 
