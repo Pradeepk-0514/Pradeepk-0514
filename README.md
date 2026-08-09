@@ -15,12 +15,4 @@ You can click the Preview link to take a look at your changes.
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/Pradeepk-0514/Pradeepk-0514/output/dist/github-contribution-grid-snake-dark.svg">
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Pradeepk-0514/Pradeepk-0514/output/dist/github-contribution-grid-snake.svg">
-
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/Pradeepk-0514/Pradeepk-0514/output/dist/github-contribution-grid-snake.svg">
 </picture>
