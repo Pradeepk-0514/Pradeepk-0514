@@ -1,25 +1,25 @@
 # Hi 👋, I'm Pradeep
 
-### 🤖 AI & Data Science Student
+###  AI & Data Science Student
 
-📊 Data Analytics | 🤖 Exploring GenAI | 💻 Full-Stack Development
+ Data Analytics |  Exploring GenAI |  Full-Stack Development
 
 I enjoy turning data into meaningful insights and building practical
 AI-powered and full-stack solutions.
 
 ---
 
-## 🚀 What I'm Exploring
+##  What I'm Exploring
 
-- 📊 Data Analytics & Data Visualization
-- 🤖 Generative AI & NLP
-- 🧠 Machine Learning
-- 💻 Full-Stack Development
-- ☁️ Cloud & AI Applications
+-  Data Analytics & Data Visualization
+-  Generative AI & NLP
+-  Machine Learning
+-  Full-Stack Development
+-  Cloud & AI Applications
 
 ---
 
-## 🛠️ Technologies
+##  Technologies
 
 ### Languages
 Python • Java • JavaScript • SQL
@@ -35,29 +35,29 @@ Git • GitHub • VS Code • Jupyter Notebook
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
-### 💳 Credit Card Fraud Detection
+###  Credit Card Fraud Detection
 Machine learning project for detecting fraudulent credit card transactions.
 
-### 📱 PlayStore Dashboard
+###  PlayStore Dashboard
 Data analytics and visualization project exploring Google Play Store data.
 
-### 🧠 Survey Sentiment Analyzer
+###  Survey Sentiment Analyzer
 AI-powered survey feedback analyzer using sentiment analysis and GenAI.
 
-### 🚦 Visualizing Traffic Patterns
+###  Visualizing Traffic Patterns
 Data visualization project for analyzing traffic patterns and trends.
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pradeepk-0514&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <picture>
   <source
@@ -75,11 +75,12 @@ Data visualization project for analyzing traffic patterns and trends.
 
 ---
 
-### 🤝 Let's Connect
+###  Let's Connect
 
 I'm always interested in learning, building, and collaborating on
 AI, data, and software projects.
 
+❤️
 <!---
 Pradeepk-0514/Pradeepk-0514 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
