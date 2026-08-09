@@ -13,6 +13,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
@@ -26,5 +29,5 @@ jobs:
         with:
           add: "dist"
           message: "Update Snake animation"
-          push: true
           new_branch: output
+          push: true
