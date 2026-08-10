@@ -119,16 +119,25 @@ Data visualization project focused on analyzing traffic data and identifying mea
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pradeepk-0514&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeepk-0514&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Pradeepk-0514&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeepk-0514&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+    height="180"
+  />
 </p>
 
----
-
-## 📈 GitHub Activity
+## 🔥 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pradeepk-0514&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=Pradeepk-0514&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
