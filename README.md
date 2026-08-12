@@ -1,76 +1,121 @@
-# 👋 Hi, I'm Pradeep K
+<!-- Header Banner -->
 
-### 🤖 AI & Data Science Student | 📊 Data Analytics | 🧠 Exploring GenAI | 💻 Full-Stack Development
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=PRADEEP%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20%7C%20Data%20Analytics%20%7C%20GenAI%20%7C%20Full-Stack&descSize=17&descAlignY=52"/>
+
+<p align="center">
+
+  <a href="https://github.com/Pradeepk-0514">
+    <img src="https://img.shields.io/badge/GitHub-Pradeepk--0514-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=Pradeepk-0514&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+
+</p>
+
+<br>
+
+<p align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=200&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=150&lines=%F0%9F%93%8A+Turning+Data+into+Meaningful+Insights;%F0%9F%A4%96+Exploring+Generative+AI+%26+Machine+Learning;%F0%9F%92%BB+Building+Full-Stack+Applications;%F0%9F%9A%80+Learning+%7C+Building+%7C+Experimenting" alt="Typing SVG"/>
+
+</p>
+
+<br>
+
+---
+
+## 👋 About Me
+
+<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 I'm an **AI & Data Science student** passionate about transforming data into meaningful insights, exploring Generative AI, and building practical full-stack applications.
 
-I enjoy learning new technologies, working on real-world projects, and continuously improving my development and analytical skills.
+I enjoy working on projects that combine **Data Analytics, Artificial Intelligence, Data Visualization, and Software Development** to solve real-world problems.
+
+- 🎓 AI & Data Science Student
+- 📊 Interested in **Data Analytics & Data Visualization**
+- 🤖 Exploring **Generative AI & NLP**
+- 🧠 Learning **Machine Learning & Artificial Intelligence**
+- 💻 Exploring **Full-Stack Development**
+- 🚀 Building practical and real-world projects
+- 🌱 Continuously learning new technologies
+- 🎯 Goal: Build useful, scalable and intelligent applications
+
+<br clear="both"/>
 
 ---
 
-## 🏷️ Profile Badges
+## 🛠️ Tech Stack & Tools
 
-![Profile Views](https://komarev.com/ghpvc/?username=Pradeepk-0514\&label=Profile%20Views\&color=0e75b6\&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/Pradeepk-0514?label=Followers\&style=flat)](https://github.com/Pradeepk-0514)
-[![GitHub stars](https://img.shields.io/github/stars/Pradeepk-0514?label=Stars\&style=flat)](https://github.com/Pradeepk-0514)
+### 🐍 Programming Languages
 
----
+<p align="left">
 
-## 👨‍💻 About Me
+<img src="https://skillicons.dev/icons?i=python,java,js&theme=dark" alt="Programming Languages"/>
 
-* 🎓 AI & Data Science Student
-* 📊 Interested in **Data Analytics & Data Visualization**
-* 🤖 Exploring **Generative AI & NLP**
-* 💻 Learning and building **Full-Stack Applications**
-* 🧠 Interested in **Machine Learning & AI**
-* 🚀 Building practical, real-world projects
-* 🌱 Always learning and experimenting with new technologies
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 
----
+</p>
 
-## 🛠️ Tech Stack
+### 📊 Data Analytics & Visualization
 
-### 💻 Programming Languages
+<p align="left">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 
-### 🌐 Frontend Development
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 
-### ⚙️ Backend & Database
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 
-### 📊 Data Analytics & AI
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=matplotlib\&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+</p>
 
-### 🤖 AI & GenAI
+### 🤖 AI & Machine Learning
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-5C3EE8?style=for-the-badge)
+<p align="left">
+
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge" alt="Machine Learning"/>
+
+<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge" alt="Generative AI"/>
+
+<img src="https://img.shields.io/badge/NLP-5C3EE8?style=for-the-badge" alt="NLP"/>
+
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+
+</p>
+
+### 🌐 Web & Full-Stack Development
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express&theme=dark" alt="Web Development"/>
+
+</p>
+
+### ☕ Backend & Databases
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql,mongodb&theme=dark" alt="Backend and Databases"/>
+
+</p>
 
 ### 🔧 Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" alt="Tools"/>
+
+</p>
 
 ---
 
@@ -80,7 +125,7 @@ I enjoy learning new technologies, working on real-world projects, and continuou
 
 Machine learning project focused on analyzing credit card transactions and identifying potentially fraudulent transactions using data analysis and predictive modeling.
 
-**Tech:** Python • Pandas • NumPy • Scikit-learn • Jupyter Notebook
+**Focus:** Machine Learning • Classification • Data Analysis • Fraud Detection
 
 🔗 [View Project](https://github.com/Pradeepk-0514/Credit_Card_Fraud_Detection)
 
@@ -90,7 +135,7 @@ Machine learning project focused on analyzing credit card transactions and ident
 
 Data analytics and visualization project focused on exploring Google Play Store application data and extracting meaningful insights from app-related metrics.
 
-**Tech:** Python • Pandas • NumPy • Data Visualization
+**Focus:** Data Analytics • Data Visualization • Exploratory Data Analysis
 
 🔗 [View Project](https://github.com/Pradeepk-0514/PlayStoreDashboard)
 
@@ -98,9 +143,9 @@ Data analytics and visualization project focused on exploring Google Play Store 
 
 ### 🧠 Survey Sentiment Analyzer
 
-AI-powered survey feedback analyzer that identifies sentiment, key issues, urgency, attrition risk, and actionable insights using Claude AI.
+AI-powered survey feedback analyzer designed to analyze natural-language responses and generate sentiment-based insights.
 
-**Tech:** HTML • CSS • JavaScript • Chart.js • Claude AI
+**Focus:** Generative AI • NLP • Sentiment Analysis • Data Insights
 
 🔗 [View Project](https://github.com/Pradeepk-0514/Survey_Sentiment_Analyzer)
 
@@ -110,34 +155,55 @@ AI-powered survey feedback analyzer that identifies sentiment, key issues, urgen
 
 Data visualization project focused on analyzing traffic data and identifying meaningful patterns and trends through visual analytics.
 
-**Tech:** Python • Pandas • NumPy • Matplotlib
+**Focus:** Data Analytics • Data Visualization • Traffic Analysis
 
 🔗 [View Project](https://github.com/Pradeepk-0514/Visualizing_traffic_Patterns)
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <p align="center">
+
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Pradeepk-0514&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
     height="180"
+    src="https://github-readme-stats.vercel.app/api?username=Pradeepk-0514&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"
+    alt="GitHub Statistics"
   />
+
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeepk-0514&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeepk-0514&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"
     alt="Top Languages"
-    height="180"
   />
+
 </p>
+
+---
 
 ## 🔥 GitHub Activity
 
 <p align="center">
+
   <img
-    src="https://streak-stats.demolab.com?user=Pradeepk-0514&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=Pradeepk-0514&theme=tokyonight&hide_border=true&border_radius=10"
     alt="GitHub Streak"
   />
+
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Pradeepk-0514&custom_title=Pradeep's%20Contribution%20Graph&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area_color=6C63FF&area=true&hide_border=true"
+    alt="Contribution Graph"
+    width="100%"
+  />
+
 </p>
 
 ---
@@ -145,57 +211,103 @@ Data visualization project focused on analyzing traffic data and identifying mea
 ## 🐍 Contribution Snake
 
 <picture>
+
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Pradeepk-0514/Pradeepk-0514/output/dist/github-contribution-grid-snake-dark.svg">
+    srcset="https://raw.githubusercontent.com/Pradeepk-0514/Pradeepk-0514/output/github-contribution-grid-snake-dark.svg">
 
-<source
- media="(prefers-color-scheme: light)"
- srcset="https://raw.githubusercontent.com/Pradeepk-0514/Pradeepk-0514/output/dist/github-contribution-grid-snake.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Pradeepk-0514/Pradeepk-0514/output/github-contribution-grid-snake.svg">
 
-<img
- alt="GitHub Contribution Snake"
- src="https://raw.githubusercontent.com/Pradeepk-0514/Pradeepk-0514/output/dist/github-contribution-grid-snake.svg"> </picture>
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Pradeepk-0514/Pradeepk-0514/output/github-contribution-grid-snake.svg">
+
+</picture>
 
 ---
 
 ## 📚 Currently Learning
 
-* 📊 Advanced Data Analytics
-* 🤖 Generative AI
-* 🧠 Machine Learning
-* 🌐 Full-Stack Development
-* ☁️ Cloud & Deployment
-* 🗄️ Database Management
-* 🔐 Authentication & Security
+- 📊 Advanced Data Analytics
+- 🤖 Generative AI
+- 🧠 Machine Learning
+- 🔤 Natural Language Processing
+- 💻 Full-Stack Development
+- 🗄️ Database Management
+- ☁️ Cloud & Deployment
+- 📈 Business Intelligence & Data Visualization
 
 ---
 
 ## 🎯 2026 Goals
 
-* 🚀 Build more real-world AI & Data projects
-* 📊 Strengthen Data Analytics skills
-* 🤖 Explore and build with Generative AI
-* 💻 Improve Full-Stack development
-* 🌐 Build and deploy production-ready applications
-* 🤝 Contribute to Open Source
-* 📚 Continuously learn and experiment
+- 🚀 Build more real-world AI & Data projects
+- 📊 Strengthen Data Analytics skills
+- 🤖 Explore Generative AI applications
+- 💻 Improve Full-Stack Development
+- 📈 Build interactive analytics dashboards
+- 🌐 Deploy production-ready applications
+- 🤝 Contribute to Open Source projects
+- 📚 Continuously learn and experiment
 
 ---
 
-## 📫 Connect With Me
+## 🏆 Areas of Interest
 
-<p align="left">
-  <a href="https://github.com/Pradeepk-0514">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-Student-6C63FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data-Analytics-00A67E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Generative-AI-412991?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine-Learning-F7931E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Full--Stack-Development-007ACC?style=for-the-badge"/>
+
 </p>
 
-📧 **Email:** pradeepkalidass05@gmail.com
-
 ---
 
-### ⭐ Thanks for visiting my profile!
+## 🤝 Let's Connect
 
+<p align="center">
 
-**Code. Analyze. Explore. Build. Repeat. 🚀**
+  <a href="https://github.com/Pradeepk-0514">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <!-- Replace with your LinkedIn URL -->
+  <a href="www.linkedin.com/in/pradeep-k-287602293">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <!-- Replace with your email -->
+  <a href="mailto:pradeepkalidass05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+</p>
+
+<br>
+
+<p align="center">
+
+**"Analyze. Explore. Build. Repeat. 🚀"**
+
+</p>
+
+<br>
+
+<p align="center">
+
+⭐ **Thanks for visiting my profile!**
+
+</p>
+
+<!-- Footer Banner -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
