@@ -172,18 +172,6 @@ https://github.com/Pradeepk-0514/Visualizing_traffic_Patterns
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Pradeepk-0514&show_icons=true&theme=tokyonight"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeepk-0514&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
