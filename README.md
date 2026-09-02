@@ -1,10 +1,6 @@
 # 👋 Hi, I'm PRADEEP K
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=PRADEEP%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20%7C%20Data%20Analytics%20%7C%20GenAI%20%7C%20Full-Stack&descSize=17&descAlignY=52" width="100%"/>
-</p>
-
-<p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Pradeepk-0514&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
