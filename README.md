@@ -287,7 +287,3 @@ https://github.com/Pradeepk-0514/Visualizing_traffic_Patterns
 ⭐ **Thanks for visiting my profile!**
 
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
