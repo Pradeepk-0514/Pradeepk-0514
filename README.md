@@ -2,8 +2,6 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Pradeepk-0514&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-Student-6C63FF?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Data-Analytics-00A67E?style=for-the-badge"/>
